@@ -1,0 +1,11 @@
+{
+    "cobblemon.stat.defence.name": "Défense",
+    "cobblemon.stat.special_defence.name": "Défense Spéciale",
+    "cobblemon.move.defensecurl": "Boul’Armure",
+    "cobblemon.move.irondefense": "Mur de Fer",
+    "item.cobblemon.blue_mint_leaf.tooltip": "Capable d'influencer la Défense d'un Pokémon",
+    "item.cobblemon.pink_mint_leaf.tooltip": "Capable d'influencer la Défense Spéciale d'un Pokémon",
+    "item.cobblemon.x_defence": "Défense +",
+    "item.cobblemon.x_special_defence": "Déf. Spé. +",
+    "cobblemon.pokedex.variation.color": "Couleur"
+}
